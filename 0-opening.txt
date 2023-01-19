@@ -1,7 +1,0 @@
-question 
-ctrl-x f
-c-x c-s
-c-s backspace
-c-y
-c-s
-c-x u
